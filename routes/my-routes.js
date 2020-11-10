@@ -4,4 +4,12 @@ module.exports = (app) => {
             message: "Hello World!"
         })
     })
+
+    app.get('/my-name', (req, res) => {
+        let decoded = req.decoded
+
+        res.send({
+            message: `Your name is ${decoded.un}`
+        })
+    })
 }
