@@ -19,31 +19,31 @@ Projeto criado com funções básicas já iniciada para serviço API RESTFul em 
     </thead>
     <tbody>
         <tr>
-            <td>[body-parser](https://www.npmjs.com/package/body-parser)</td>
+            <td><a href="https://www.npmjs.com/package/body-parser">body-parser</a></td>
             <td>Necessário para receber dados no corpo da requisição</td>
         </tr>
         <tr>
-            <td>[consign](https://www.npmjs.com/package/consign)</td>
+            <td><a href="https://www.npmjs.com/package/consign">consign</a></td>
             <td>Autoload de arquivos</td>
         </tr>
         <tr>
-            <td>[cors](https://www.npmjs.com/package/cors)</td>
+            <td><a href="https://www.npmjs.com/package/cors">cors</a></td>
             <td>Utilizado para criar o middleware</td>
         </tr>
         <tr>
-            <td>[crypto-js](https://www.npmjs.com/package/crypto-js)</td>
+            <td><a href="https://www.npmjs.com/package/crypto-js">crypto-js</a></td>
             <td>Biblioteca de criptografias</td>
         </tr>
         <tr>
-            <td>[express](https://www.npmjs.com/package/express)</td>
+            <td><a href="https://www.npmjs.com/package/express">express</a></td>
             <td>Framework web</td>
         </tr>
         <tr>
-            <td>[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)</td>
+            <td><a href="https://www.npmjs.com/package/jsonwebtoken">jsonwebtoken</a></td>
             <td>Utilizado para criar o JSON Web Token</td>
         </tr>
         <tr>
-            <td>[mongoose](https://www.npmjs.com/package/mongoose)</td>
+            <td><a href="https://www.npmjs.com/package/mongoose">mongoose</a></td>
             <td>Utilizado para criar conexão e querys no mongodb</td>
         </tr>
     </tbody>
