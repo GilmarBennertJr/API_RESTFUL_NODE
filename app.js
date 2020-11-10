@@ -19,10 +19,12 @@ consign()
     .then('config.js')
     .then('util')
     .then('mongo/initMongo.js')
+    .then('mongo/collections')
     .then('middleware.js')
     .then('routes')    
     .into(app)
 
+// Start Express
 app.listen(app.config.express_port, function () {
     console.log(`servidor iniciado porta ${app.config.express_port}`)
 })
